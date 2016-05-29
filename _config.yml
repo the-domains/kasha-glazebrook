@@ -1,29 +1,41 @@
-name: Kasha Glazebrook
-favicon: null
-layout_spectrum: 0.8205968698021024
-typography_spectrum: 0.7198726495262235
 title: Soul Readings
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.3016824685037136
+  lightness: 1
+  brandColors:
+    - '#FAFEFF'
+    - '#361539'
+    - '#52586C'
+    - '#0EBE8F'
+    - '#CAB9DD'
+  rhythmicContrast: 0.2150084
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Kasha Glazebrook
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3016824685037136
-  lightness: 0.8271157934796065
-  saturation: 0.7310346979647875
-  rhythmicContrast: 0.4025639633182436
-purpose: []
+typography_spectrum: 0.07335582
+layout_spectrum: 0.242833
